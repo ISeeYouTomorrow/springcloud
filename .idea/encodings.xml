@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configclientbus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver-more" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feigndemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbondemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-consul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-miya" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zulldemo" charset="UTF-8" />
+  </component>
+</project>

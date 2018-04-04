@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configclient" />
+        <module name="configclientbus" />
+        <module name="configserver" />
+        <module name="eurekaserver" />
+        <module name="eurekaserver-more" />
+        <module name="eurekaservice" />
+        <module name="feigndemo" />
+        <module name="ribbondemo" />
+        <module name="server-zipkin" />
+        <module name="service-consul" />
+        <module name="service-hi" />
+        <module name="service-miya" />
+        <module name="service_ribbon" />
+        <module name="springcloud" />
+        <module name="zulldemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configclient" target="1.8" />
+      <module name="configclientbus" target="1.8" />
+      <module name="configserver" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="eurekaserver-more" target="1.8" />
+      <module name="eurekaservice" target="1.8" />
+      <module name="feigndemo" target="1.8" />
+      <module name="ribbondemo" target="1.8" />
+      <module name="server-zipkin" target="1.8" />
+      <module name="service-consul" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-miya" target="1.8" />
+      <module name="service_ribbon" target="1.8" />
+      <module name="springcloud" target="1.5" />
+      <module name="zulldemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

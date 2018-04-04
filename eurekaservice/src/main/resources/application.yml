@@ -1,0 +1,10 @@
+eureka:
+  client:
+    serviceUrl:
+      #defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://peer1:8761/eureka/ #对应注册服务为eurekaserver-more
+server:
+  port: 8762
+spring:
+  application:
+    name: eureka-service
